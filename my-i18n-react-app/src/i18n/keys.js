@@ -1,0 +1,4 @@
+module.exports = {
+  "WELCOME_TO_OUR_PLATFORM": "WELCOME_TO_OUR_PLATFORM",
+  "HELLO_HIIE": "HELLO_HIIE"
+}
